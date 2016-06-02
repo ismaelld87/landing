@@ -1,5 +1,3 @@
-$(document).foundation();
-
 
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
